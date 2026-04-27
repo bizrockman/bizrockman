@@ -7,7 +7,7 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** No public commits in nearly three years. Likely heads-down on private work or between projects. The builder's pause.
+> 🌱 **Now:** Wired up the auto-status workflow on bizrockman repo. Organizing seven-paper series on LLM epistemics in Unpublished-Papers — clean numbering and Overleaf separation done.
 >
 > *Updated: 2026-04-27*
 <!-- NOW:END -->
