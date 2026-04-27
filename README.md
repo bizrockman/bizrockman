@@ -7,7 +7,7 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🌱 **Now:** Long stretch without public commits. Likely sketching or reading — Danny builds in focused bursts rather than constant noise.
+> 🧠 **Now:** No public commits in nearly three years. Likely heads-down on private work or between projects. The builder's pause.
 >
 > *Updated: 2026-04-27*
 <!-- NOW:END -->
