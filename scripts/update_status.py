@@ -75,34 +75,46 @@ BAD examples (do not produce):
 """
 
 
+BOT_AUTHOR_NAME = "bizrockman-bot"
+BOT_MESSAGE_PREFIX = "chore: refresh Now block"
+
+
 def fetch_recent_commits(limit: int = 5) -> list[dict]:
     headers = {"Accept": "application/vnd.github+json"}
     if PAT:
         headers["Authorization"] = f"Bearer {PAT}"
     r = requests.get(
-        f"https://api.github.com/users/{GITHUB_USER}/events/public",
+        "https://api.github.com/search/commits",
         headers=headers,
-        params={"per_page": 30},
+        params={
+            "q": f"author:{GITHUB_USER}",
+            "sort": "author-date",
+            "order": "desc",
+            "per_page": 30,
+        },
         timeout=20,
     )
     r.raise_for_status()
-    events = r.json()
+    data = r.json()
     out: list[dict] = []
-    for ev in events:
-        if ev.get("type") != "PushEvent":
+    for item in data.get("items", []):
+        commit = item.get("commit") or {}
+        author = commit.get("author") or {}
+        msg = (commit.get("message") or "").splitlines()[0].strip()
+        if not msg:
             continue
-        repo = ev.get("repo", {}).get("name", "")
-        created_at = ev.get("created_at", "")
-        for c in ev.get("payload", {}).get("commits", []):
-            msg = (c.get("message") or "").splitlines()[0].strip()
-            if not msg:
-                continue
-            low = msg.lower()
-            if low.startswith("merge ") or low.startswith("merge pull request"):
-                continue
-            out.append({"repo": repo, "msg": msg, "at": created_at})
-            if len(out) >= limit:
-                return out
+        if author.get("name") == BOT_AUTHOR_NAME:
+            continue
+        if msg.startswith(BOT_MESSAGE_PREFIX):
+            continue
+        low = msg.lower()
+        if low.startswith("merge ") or low.startswith("merge pull request"):
+            continue
+        repo = (item.get("repository") or {}).get("full_name", "")
+        date = author.get("date") or (commit.get("committer") or {}).get("date") or ""
+        out.append({"repo": repo, "msg": msg, "at": date})
+        if len(out) >= limit:
+            break
     return out
 
 
@@ -114,14 +126,16 @@ def ask_claude(commits: list[dict]) -> dict:
         latest_iso = commits[0]["at"].replace("Z", "+00:00")
         latest_dt = datetime.fromisoformat(latest_iso)
         age_days = (datetime.now(timezone.utc) - latest_dt).days
+        user_msg = (
+            f"Latest commit is {age_days} day(s) old.\n"
+            f"Recent commits (newest first):\n{commit_lines}"
+        )
     else:
-        commit_lines = "(no recent public commits)"
-        age_days = 999
-
-    user_msg = (
-        f"Latest commit is {age_days} day(s) old.\n"
-        f"Recent commits (newest first):\n{commit_lines}"
-    )
+        user_msg = (
+            "No public commits available right now (none returned by the search). "
+            "Do NOT invent a duration like 'three years' or 'months ago' — just produce a "
+            "contemplative thinking/reading mode status without specifying any time period."
+        )
 
     resp = client.messages.create(
         model=CLAUDE_MODEL,
