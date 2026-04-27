@@ -1,0 +1,53 @@
+name: Update profile status
+
+on:
+  schedule:
+    # 18:00 UTC = 20:00 Berlin (CEST, summer) / 19:00 Berlin (CET, winter).
+    # GitHub cron has no DST, accept ~1h drift in winter. Cron is also
+    # frequently delayed under load — exact firing time is best-effort.
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/update_status.py'
+      - '.github/workflows/update-status.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-status
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Generate status & update README
+        env:
+          GH_USER_PAT: ${{ secrets.GH_USER_PAT }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_USER: bizrockman
+        run: python scripts/update_status.py
+
+      - name: Commit README changes (if any)
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "bizrockman-bot"
+            git config user.email "d.gerst@bizrock.de"
+            git add README.md
+            git commit -m "chore: refresh Now block"
+            git push
+          else
+            echo "No README changes."
+          fi
