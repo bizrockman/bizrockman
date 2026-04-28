@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🔥 **Now:** Finalizing OCF spec with license, branding, and timestamp fixes. Org profile and brand identity now live.
+> 🛠️ **Now:** Shipping exporters and renderers for ocf-py. Claude Code and Cursor adapters wired up, markdown renderer live. Marked the project as Live in the org.
 >
-> *Updated: 2026-04-27*
+> *Updated: 2026-04-28*
 <!-- NOW:END -->
 
 ---
