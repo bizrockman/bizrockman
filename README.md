@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping exporters and renderers for ocf-py. Claude Code and Cursor adapters wired up, markdown renderer live. Marked the project as Live in the org.
+> 🛠️ **Now:** Building out ocf-py with exporters for Claude and CursorDiskKV, plus a markdown renderer. CLI tooling live and wired into the main org.
 >
-> *Updated: 2026-04-28*
+> *Updated: 2026-04-29*
 <!-- NOW:END -->
 
 ---
