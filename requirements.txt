@@ -1,2 +1,3 @@
 anthropic>=0.40
 requests>=2.32
+atproto>=0.0.55

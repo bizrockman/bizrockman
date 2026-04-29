@@ -220,16 +220,35 @@ def update_readme_now(now_text: str, emoji: str) -> None:
         print("README unchanged.")
 
 
+def write_cache_for_social(commits: list[dict], result: dict, used_fallback: bool) -> None:
+    """Persist this run's data so post_to_social.py can read it without re-fetching."""
+    import os as _os
+    cache_dir = ".state"
+    _os.makedirs(cache_dir, exist_ok=True)
+    payload = {
+        "commits": commits,
+        "haiku_result": result,
+        "used_fallback": used_fallback,
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+    }
+    with open(f"{cache_dir}/last-haiku.json", "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2)
+
+
 def main() -> int:
     result = dict(FALLBACK)
+    commits: list[dict] = []
+    used_fallback = True
     try:
         commits = fetch_recent_commits()
         print(f"Fetched {len(commits)} commits.", flush=True)
         result = ask_claude(commits)
+        used_fallback = False
         print(f"Claude → emoji={result['emoji']} badge={result['badge']!r}", flush=True)
     except Exception as e:
         print(f"[WARN] generation failed, using fallback: {e}", file=sys.stderr, flush=True)
         result = dict(FALLBACK)
+        used_fallback = True
 
     try:
         set_github_status(result["emoji"], result["badge"])
@@ -247,6 +266,11 @@ def main() -> int:
     except Exception as e:
         print(f"[ERR] README update failed: {e}", file=sys.stderr, flush=True)
         return 1
+
+    try:
+        write_cache_for_social(commits, result, used_fallback)
+    except Exception as e:
+        print(f"[WARN] cache write failed (social step will be skipped): {e}", file=sys.stderr, flush=True)
 
     return 0
 

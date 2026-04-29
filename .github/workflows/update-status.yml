@@ -11,6 +11,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/update_status.py'
+      - 'scripts/post_to_social.py'
       - '.github/workflows/update-status.yml'
 
 permissions:
@@ -33,21 +34,33 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Generate status & update README
+      - name: Generate status & update README (Haiku)
         env:
           GH_USER_PAT: ${{ secrets.GH_USER_PAT }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_USER: bizrockman
         run: python scripts/update_status.py
 
-      - name: Commit README changes (if any)
+      - name: Post to Bluesky & update SHIPPING.md (Sonnet)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: python scripts/post_to_social.py
+        continue-on-error: true
+
+      - name: Commit changes (if any)
         run: |
-          if [[ -n "$(git status --porcelain README.md)" ]]; then
-            git config user.name "bizrockman-bot"
-            git config user.email "d.gerst@bizrock.de"
-            git add README.md
-            git commit -m "chore: refresh Now block"
-            git push
+          # We track three things: README (NOW block), SHIPPING.md, and .state/
+          # The .state/ folder is committed so dedup state persists across runs.
+          # last-haiku.json is regenerated each run so we don't need to track it,
+          # but harmless if we do — it's small and stays in sync.
+          git config user.name "bizrockman-bot"
+          git config user.email "d.gerst@bizrock.de"
+          git add README.md SHIPPING.md .state/ 2>/dev/null || true
+          if git diff --quiet --cached; then
+            echo "No changes to commit."
           else
-            echo "No README changes."
+            git commit -m "chore: refresh Now block + shipping log"
+            git push
           fi
