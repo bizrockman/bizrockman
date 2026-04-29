@@ -7,7 +7,7 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Building out ocf-py with exporters for Claude and CursorDiskKV, plus a markdown renderer. CLI tooling live and wired into the main org.
+> ⚡ **Now:** Shipping markdown renderer and export pipeline for ocf-py. Wired up Bluesky posting via Sonnet editorial layer. Cursor adapter for SQLite exporters live.
 >
 > *Updated: 2026-04-29*
 <!-- NOW:END -->
