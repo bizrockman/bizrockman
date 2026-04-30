@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> ⚡ **Now:** Shipping markdown renderer and export pipeline for ocf-py. Wired up Bluesky posting via Sonnet editorial layer. Cursor adapter for SQLite exporters live.
+> ⚡ **Now:** Shipping the ocf-py renderer and CLI tools. Just wired Bluesky posting into the editorial layer on bizrockman. Cursor adapter for SQLite export working.
 >
-> *Updated: 2026-04-29*
+> *Updated: 2026-04-30*
 <!-- NOW:END -->
 
 ---
