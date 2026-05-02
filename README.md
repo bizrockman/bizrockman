@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping markdown renderer and export/list subcommands in ocf-py. Wired Bluesky posting into the editorial layer. OCF implementation marked Live across the org.
+> 📚 **Now:** Last push was the ocf-py CLI and renderers. Quiet stretch now — thinking through OpenChatFormat's next moves and how Bluesky posting fits the editorial layer story.
 >
-> *Updated: 2026-05-01*
+> *Updated: 2026-05-02*
 <!-- NOW:END -->
 
 ---
