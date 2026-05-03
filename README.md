@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Last push was the ocf-py CLI and renderers. Quiet stretch now — thinking through OpenChatFormat's next moves and how Bluesky posting fits the editorial layer story.
+> 🔧 **Now:** Working through SearXNG configuration in llm-websearch. Pinned the last known-working tag and switched from bind mounts to inline generation. Content extraction now pulls brotli.
 >
-> *Updated: 2026-05-02*
+> *Updated: 2026-05-03*
 <!-- NOW:END -->
 
 ---
