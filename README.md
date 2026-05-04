@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🔧 **Now:** Working through SearXNG configuration in llm-websearch. Pinned the last known-working tag and switched from bind mounts to inline generation. Content extraction now pulls brotli.
+> 🛠️ **Now:** Tuning rate-limit knobs, adding healthchecks to the API service, and patching image fallbacks in news search. Updated the Mini Projects index to surface what this fork adds versus upstream.
 >
-> *Updated: 2026-05-03*
+> *Updated: 2026-05-04*
 <!-- NOW:END -->
 
 ---
