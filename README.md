@@ -57,6 +57,7 @@ A bilingual six-piece series on LLM epistemics and curation - what models actual
 
 ## Mini Projects
 
+- [**llm-websearch**](https://github.com/bizrockman/llm-websearch) - Web search backend with caching, quota saving, and an index over what you've read (fork of orio-search)
 - [**AIInferenceBenchmark**](https://github.com/bizrockman/AIInferenceBenchmark) - Inference performance benchmark across providers
 - [**EbookSummarizerToPodcast**](https://github.com/bizrockman/EbookSummarizerToPodcast) - Turning books into listenable summaries
 - [**OpenXE**](https://github.com/bizrockman/OpenXE) - Continued development, mainly on the integrations side
