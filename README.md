@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Tuning rate-limit knobs, adding healthchecks to the API service, and patching image fallbacks in news search. Updated the Mini Projects index to surface what this fork adds versus upstream.
+> ⚡ **Now:** Wiring up healthchecks and making rate limits tunable in llm-websearch. Backfilling og:image fallbacks for news results. Fork diverging cleanly from upstream now.
 >
-> *Updated: 2026-05-04*
+> *Updated: 2026-05-05*
 <!-- NOW:END -->
 
 ---
