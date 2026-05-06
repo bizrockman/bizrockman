@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> ⚡ **Now:** Wiring up healthchecks and making rate limits tunable in llm-websearch. Backfilling og:image fallbacks for news results. Fork diverging cleanly from upstream now.
+> ⚡ **Now:** Tuning rate limits, wiring healthchecks, and patching image fallbacks in llm-websearch. Surfaced the fork's changes upfront in the README.
 >
-> *Updated: 2026-05-05*
+> *Updated: 2026-05-06*
 <!-- NOW:END -->
 
 ---
