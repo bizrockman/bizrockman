@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> ⚡ **Now:** Tuning rate limits, wiring healthchecks, and patching image fallbacks in llm-websearch. Surfaced the fork's changes upfront in the README.
+> 📚 **Now:** Last few commits landed on llm-websearch — healthchecks, rate-limit tuning, image fallbacks. Quiet stretch now; cataloging what's shifted vs upstream.
 >
-> *Updated: 2026-05-06*
+> *Updated: 2026-05-07*
 <!-- NOW:END -->
 
 ---
