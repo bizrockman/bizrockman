@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Last few commits landed on llm-websearch — healthchecks, rate-limit tuning, image fallbacks. Quiet stretch now; cataloging what's shifted vs upstream.
+> 🛠️ **Now:** Shipping fixes to ocf-py — Windows AppData resolution, JSONL field mapping, and splitting the Claude Code adapter. Also surfaced the llm-websearch fork differences in the README.
 >
-> *Updated: 2026-05-07*
+> *Updated: 2026-05-08*
 <!-- NOW:END -->
 
 ---
