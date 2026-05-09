@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping fixes to ocf-py — Windows AppData resolution, JSONL field mapping, and splitting the Claude Code adapter. Also surfaced the llm-websearch fork differences in the README.
+> 🔥 **Now:** Shipping the full comic strip pipeline in wyrd-npc-gemma4. Latest work: fixed speech bubbles and title panel rendering. Pipeline now handles dialogue generation end-to-end.
 >
-> *Updated: 2026-05-08*
+> *Updated: 2026-05-09*
 <!-- NOW:END -->
 
 ---
