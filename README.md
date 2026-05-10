@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🔥 **Now:** Shipping the full comic strip pipeline in wyrd-npc-gemma4. Latest work: fixed speech bubbles and title panel rendering. Pipeline now handles dialogue generation end-to-end.
+> 🛠️ **Now:** Shipping v0.3.0 — stripped forms endpoint, locked auth on internal routes, fixed preflight and upload detection. MailGate is now a pure SMTP forwarder.
 >
-> *Updated: 2026-05-09*
+> *Updated: 2026-05-10*
 <!-- NOW:END -->
 
 ---
