@@ -57,6 +57,8 @@ A bilingual six-piece series on LLM epistemics and curation - what models actual
 
 ## Mini Projects
 
+- [**MailGate**](https://github.com/bizrockman/MailGate) - Self-hostable SMTP forwarder with a Resend-compatible HTTP API, no SMTP credentials in your frontend
+- [**wyrd-npc-gemma4**](https://github.com/bizrockman/wyrd-npc-gemma4) - Bounded NPC character on Gemma 4: Kenji, a Shinjuku ramen shop owner who doesn't know he's a character
 - [**llm-websearch**](https://github.com/bizrockman/llm-websearch) - Web search backend with caching, quota saving, and an index over what you've read (fork of orio-search)
 - [**AIInferenceBenchmark**](https://github.com/bizrockman/AIInferenceBenchmark) - Inference performance benchmark across providers
 - [**EbookSummarizerToPodcast**](https://github.com/bizrockman/EbookSummarizerToPodcast) - Turning books into listenable summaries
