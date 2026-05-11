@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping v0.3.0 — stripped forms endpoint, locked auth on internal routes, fixed preflight and upload detection. MailGate is now a pure SMTP forwarder.
+> 🔥 **Now:** Adding Trust Gate Opening suite and texture metrics to wyrd-npc-gemma4. Rewrote README to surface the CLI demo and new test structure. Just added MailGate to the mini projects index.
 >
-> *Updated: 2026-05-10*
+> *Updated: 2026-05-11*
 <!-- NOW:END -->
 
 ---
