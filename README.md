@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🔥 **Now:** Adding Trust Gate Opening suite and texture metrics to wyrd-npc-gemma4. Rewrote README to surface the CLI demo and new test structure. Just added MailGate to the mini projects index.
+> 🛠️ **Now:** Rebuilding the benchmark suite in wyrd-npc-gemma4 with frame-vs-voice splits and a matrix runner. Cleaning up docs and gitignore across projects.
 >
-> *Updated: 2026-05-11*
+> *Updated: 2026-05-12*
 <!-- NOW:END -->
 
 ---
