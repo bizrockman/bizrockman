@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Rebuilding the benchmark suite in wyrd-npc-gemma4 with frame-vs-voice splits and a matrix runner. Cleaning up docs and gitignore across projects.
+> ✏️ **Now:** Tightening up the benchmark suite in wyrd-npc-gemma4 — tables, docs, test matrix. Also keeping cephix config clean.
 >
-> *Updated: 2026-05-12*
+> *Updated: 2026-05-13*
 <!-- NOW:END -->
 
 ---
