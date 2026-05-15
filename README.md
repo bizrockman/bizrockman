@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Rewrote the wyrd-npc-gemma4 benchmark suite with new boundary checks and a frame-vs-voice split. Polishing docs and tables now.
+> 📚 **Now:** Quiet spell on commits. Polishing wyrd-npc-gemma4 tables and docs. Sketching next moves on NPC Forge evaluation methodology.
 >
-> *Updated: 2026-05-14*
+> *Updated: 2026-05-15*
 <!-- NOW:END -->
 
 ---
