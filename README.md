@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet spell on commits. Polishing wyrd-npc-gemma4 tables and docs. Sketching next moves on NPC Forge evaluation methodology.
+> 📚 **Now:** Quiet stretch on commits. Working through wyrd-npc-gemma4 benchmarks and docs — tables, framing, clarity. Sketching next moves on cephix.
 >
-> *Updated: 2026-05-15*
+> *Updated: 2026-05-16*
 <!-- NOW:END -->
 
 ---
