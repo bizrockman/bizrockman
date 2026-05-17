@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits. Working through wyrd-npc-gemma4 benchmarks and docs — tables, framing, clarity. Sketching next moves on cephix.
+> 📚 **Now:** Quiet stretch on commits. Working through wyrd-npc-gemma4 benchmark architecture and documentation. Sketching next phase for cephix.
 >
-> *Updated: 2026-05-16*
+> *Updated: 2026-05-17*
 <!-- NOW:END -->
 
 ---
