@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Six days since last commit — deep in wyrd-npc-gemma4 benchmark architecture and documentation. Sketching next moves on the NPC Forge side.
+> 📚 **Now:** Last commit seven days back—quiet on shipping. Notes accumulating on wyrd-npc-gemma4 design and how Cephix benchmarks stack up. Drafting next phase.
 >
-> *Updated: 2026-05-18*
+> *Updated: 2026-05-19*
 <!-- NOW:END -->
 
 ---
