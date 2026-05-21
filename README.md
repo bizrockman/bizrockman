@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits. Wrapping up wyrd-npc-gemma4 benchmark tables and README. Sketching next moves on cephix and NPC architecture.
+> 📚 **Now:** Nine days quiet on commits. Spent the stretch refining wyrd-npc-gemma4 benchmarks and docs. Reading through eval patterns and thinking through what matters in inference comparison.
 >
-> *Updated: 2026-05-20*
+> *Updated: 2026-05-21*
 <!-- NOW:END -->
 
 ---
