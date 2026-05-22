@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Nine days quiet on commits. Spent the stretch refining wyrd-npc-gemma4 benchmarks and docs. Reading through eval patterns and thinking through what matters in inference comparison.
+> ⚡ **Now:** Pushing OCF sessions into Meilisearch for full-text search in open-conversation-format. Cleaning up tooling config across cephix and finalizing wyrd-npc-gemma4 benchmark tables.
 >
-> *Updated: 2026-05-21*
+> *Updated: 2026-05-22*
 <!-- NOW:END -->
 
 ---
