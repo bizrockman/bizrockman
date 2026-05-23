@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> ⚡ **Now:** Pushing OCF sessions into Meilisearch for full-text search in open-conversation-format. Cleaning up tooling config across cephix and finalizing wyrd-npc-gemma4 benchmark tables.
+> 🛠️ **Now:** Fixing edge cases in claude-cowork-app worktree fallbacks and expanding path discovery for WSL2 + Cursor Remote-SSH. Solidifying the convert pipeline.
 >
-> *Updated: 2026-05-22*
+> *Updated: 2026-05-23*
 <!-- NOW:END -->
 
 ---
