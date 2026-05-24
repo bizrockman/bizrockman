@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Fixing edge cases in claude-cowork-app worktree fallbacks and expanding path discovery for WSL2 + Cursor Remote-SSH. Solidifying the convert pipeline.
+> 🛠️ **Now:** Fixing edge cases in claude-cowork-app worktree handling and expanding path discovery for WSL2 + Cursor Remote-SSH. Closing gaps in sidecar metadata and audit log logic.
 >
-> *Updated: 2026-05-23*
+> *Updated: 2026-05-24*
 <!-- NOW:END -->
 
 ---
