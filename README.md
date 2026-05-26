@@ -7,7 +7,7 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits. Last work landed WSL2 + Cursor Remote-SSH discovery and worktree fallback logic in the claude-cowork-app converter. Sketching next moves on the format.
+> 🛠️ **Now:** Shipping BusComponent specialization and a centralized persistence layer in Cephix. Control plane and identity management now wired into the robot architecture.
 >
 > *Updated: 2026-05-26*
 <!-- NOW:END -->
