@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Fixing edge cases in claude-cowork-app worktree fallbacks and expanding WSL2 + Cursor Remote-SSH detection in open-conversation-format/ocf-py. Grinding through the convert path logic.
+> 🧠 **Now:** Quiet stretch on commits. Last work landed WSL2 + Cursor Remote-SSH discovery and worktree fallback logic in the claude-cowork-app converter. Sketching next moves on the format.
 >
-> *Updated: 2026-05-25*
+> *Updated: 2026-05-26*
 <!-- NOW:END -->
 
 ---
