@@ -14,7 +14,7 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import anthropic
 import requests
@@ -79,10 +79,110 @@ BOT_AUTHOR_NAME = "bizrockman-bot"
 BOT_MESSAGE_PREFIX = "chore: refresh Now block"
 
 
+# Days back we scan non-default branches in repos where we've seen recent
+# default-branch activity. Long enough to catch a typical feature-branch
+# sprint, short enough to keep the API-call count reasonable.
+BRANCH_SCAN_WINDOW_DAYS = 14
+
+
+def _normalize_commit(item: dict, repo_full: str | None = None) -> dict:
+    """Map either a /search/commits item or a /repos/.../commits item to our shape."""
+    commit = item.get("commit") or {}
+    author = commit.get("author") or {}
+    committer = commit.get("committer") or {}
+    full_name = repo_full or (item.get("repository") or {}).get("full_name", "")
+    return {
+        "sha": item.get("sha", ""),
+        "repo": full_name,
+        "msg": (commit.get("message") or "").splitlines()[0].strip(),
+        "at": author.get("date") or committer.get("date") or "",
+        "author_name": author.get("name", ""),
+    }
+
+
+def _passes_filter(rec: dict) -> bool:
+    msg = rec.get("msg", "")
+    if not msg:
+        return False
+    if rec.get("author_name") == BOT_AUTHOR_NAME:
+        return False
+    if msg.startswith(BOT_MESSAGE_PREFIX):
+        return False
+    low = msg.lower()
+    if low.startswith("merge ") or low.startswith("merge pull request"):
+        return False
+    return True
+
+
+def _fetch_non_default_branch_commits(
+    headers: dict, repo_full: str, since_iso: str
+) -> list[dict]:
+    """For one repo: list branches, fetch author-filtered commits from each
+    non-default branch since `since_iso`. Returns normalized records.
+
+    GitHub's /search/commits API only indexes the default branch — feature-
+    branch work is invisible to it. This closes that gap.
+    """
+    repo_resp = requests.get(
+        f"https://api.github.com/repos/{repo_full}",
+        headers=headers,
+        timeout=20,
+    )
+    repo_resp.raise_for_status()
+    default_branch = (repo_resp.json() or {}).get("default_branch", "")
+
+    br_resp = requests.get(
+        f"https://api.github.com/repos/{repo_full}/branches",
+        headers=headers,
+        params={"per_page": 100},
+        timeout=20,
+    )
+    br_resp.raise_for_status()
+    branches = br_resp.json() or []
+
+    out: list[dict] = []
+    for b in branches:
+        name = b.get("name") or ""
+        if not name or name == default_branch:
+            continue
+        try:
+            c_resp = requests.get(
+                f"https://api.github.com/repos/{repo_full}/commits",
+                headers=headers,
+                params={
+                    "sha": name,
+                    "author": GITHUB_USER,
+                    "since": since_iso,
+                    "per_page": 30,
+                },
+                timeout=20,
+            )
+            c_resp.raise_for_status()
+            for item in c_resp.json() or []:
+                out.append(_normalize_commit(item, repo_full=repo_full))
+        except Exception as e:
+            print(
+                f"[WARN] commits fetch failed for {repo_full}@{name}: {e}",
+                file=sys.stderr,
+                flush=True,
+            )
+            continue
+    return out
+
+
 def fetch_recent_commits(limit: int = 5) -> list[dict]:
+    """Source priority:
+       1. /search/commits — fast, indexed, but DEFAULT BRANCH ONLY
+       2. For repos seen in step 1 within the scan window, additionally
+          enumerate non-default branches and fetch recent author commits
+          there. Captures feature-branch work that search/commits misses.
+    Merge, dedup by SHA, filter (bots, merges), sort by date desc, truncate.
+    """
     headers = {"Accept": "application/vnd.github+json"}
     if PAT:
         headers["Authorization"] = f"Bearer {PAT}"
+
+    # Step 1: search/commits — default branches across all public repos
     r = requests.get(
         "https://api.github.com/search/commits",
         headers=headers,
@@ -95,27 +195,51 @@ def fetch_recent_commits(limit: int = 5) -> list[dict]:
         timeout=20,
     )
     r.raise_for_status()
-    data = r.json()
-    out: list[dict] = []
-    for item in data.get("items", []):
-        commit = item.get("commit") or {}
-        author = commit.get("author") or {}
-        msg = (commit.get("message") or "").splitlines()[0].strip()
-        if not msg:
+    search_items = (r.json() or {}).get("items", []) or []
+    candidates: list[dict] = [_normalize_commit(it) for it in search_items]
+
+    # Step 2: identify repos with recent default-branch activity, then look
+    # in their non-default branches for additional work.
+    cutoff = datetime.now(timezone.utc) - timedelta(days=BRANCH_SCAN_WINDOW_DAYS)
+    cutoff_iso = cutoff.strftime("%Y-%m-%dT%H:%M:%SZ")
+    active_repos: set[str] = set()
+    for rec in candidates:
+        try:
+            dt = datetime.fromisoformat((rec["at"] or "").replace("Z", "+00:00"))
+        except Exception:
             continue
-        if author.get("name") == BOT_AUTHOR_NAME:
+        if dt >= cutoff and rec["repo"]:
+            active_repos.add(rec["repo"])
+
+    for repo_full in sorted(active_repos):
+        try:
+            candidates.extend(
+                _fetch_non_default_branch_commits(headers, repo_full, cutoff_iso)
+            )
+        except Exception as e:
+            print(
+                f"[WARN] branch enumeration failed for {repo_full}: {e}",
+                file=sys.stderr,
+                flush=True,
+            )
+
+    # Dedup by SHA, apply filters, sort desc by date, truncate.
+    seen: set[str] = set()
+    filtered: list[dict] = []
+    for rec in candidates:
+        sha = rec.get("sha", "")
+        if sha and sha in seen:
             continue
-        if msg.startswith(BOT_MESSAGE_PREFIX):
+        if sha:
+            seen.add(sha)
+        if not _passes_filter(rec):
             continue
-        low = msg.lower()
-        if low.startswith("merge ") or low.startswith("merge pull request"):
-            continue
-        repo = (item.get("repository") or {}).get("full_name", "")
-        date = author.get("date") or (commit.get("committer") or {}).get("date") or ""
-        out.append({"repo": repo, "msg": msg, "at": date})
-        if len(out) >= limit:
-            break
-    return out
+        filtered.append(rec)
+
+    filtered.sort(key=lambda r: r.get("at", ""), reverse=True)
+    # Strip the internal-only `sha` and `author_name` fields before returning
+    # — downstream consumers (ask_claude, post_to_social) expect {repo, msg, at}.
+    return [{"repo": r["repo"], "msg": r["msg"], "at": r["at"]} for r in filtered[:limit]]
 
 
 def ask_claude(commits: list[dict]) -> dict:
