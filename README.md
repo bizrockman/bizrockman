@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping BusComponent specialization and a centralized persistence layer in Cephix. Control plane and identity management now wired into the robot architecture.
+> 🛠️ **Now:** Refactoring the robot architecture in Cephix — moving to actor/component request-response pattern and adding a centralized persistence layer. Shipped KernelPhase event semantics work and audit enhancements.
 >
-> *Updated: 2026-05-26*
+> *Updated: 2026-05-27*
 <!-- NOW:END -->
 
 ---
