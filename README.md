@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Refactoring the robot architecture in Cephix — moving to actor/component request-response pattern and adding a centralized persistence layer. Shipped KernelPhase event semantics work and audit enhancements.
+> ⚡ **Now:** Landed v0.1.1 of ocf-py with cursor resolution and usage schema expansion. Cephix now has working LLM E2E with template-based slot resolution and per-instance ID generation.
 >
-> *Updated: 2026-05-27*
+> *Updated: 2026-05-28*
 <!-- NOW:END -->
 
 ---
