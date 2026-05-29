@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> ⚡ **Now:** Landed v0.1.1 of ocf-py with cursor resolution and usage schema expansion. Cephix now has working LLM E2E with template-based slot resolution and per-instance ID generation.
+> ⚙️ **Now:** Heavy refactor on Cephix persistence and component lifecycle. Wired telemetry and command integration into ChatKernel. Pushed v0.1.1 of ocf-py with cursor model resolution and expanded usage schema for caching and thinking fields.
 >
-> *Updated: 2026-05-28*
+> *Updated: 2026-05-29*
 <!-- NOW:END -->
 
 ---
