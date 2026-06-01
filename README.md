@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Refactoring tool execution in Cephix — added filesystem driver, reworked robot lifecycle tracking, and streamlined event handling. CLI command pipeline is next.
+> 🛠️ **Now:** Wiring up filesystem and robot drivers into Cephix. Refactoring tool execution and event handling across the stack.
 >
-> *Updated: 2026-05-31*
+> *Updated: 2026-06-01*
 <!-- NOW:END -->
 
 ---
