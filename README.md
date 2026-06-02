@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Wiring up filesystem and robot drivers into Cephix. Refactoring tool execution and event handling across the stack.
+> 🛠️ **Now:** Wiring up Supabase persistence and enum migrations in LinkedinRedakteur. Mocked out Telegram and LinkedIn wizard steps; roadmap extends to a web GUI.
 >
-> *Updated: 2026-06-01*
+> *Updated: 2026-06-02*
 <!-- NOW:END -->
 
 ---
