@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Wiring up Supabase persistence and enum migrations in LinkedinRedakteur. Mocked out Telegram and LinkedIn wizard steps; roadmap extends to a web GUI.
+> 🛠️ **Now:** Solidifying the database schema in LinkedinRedakteur with safe enum migrations. Wiring up wizard steps and mocking Telegram + LinkedIn paths. Persistence layer going into Supabase.
 >
-> *Updated: 2026-06-02*
+> *Updated: 2026-06-03*
 <!-- NOW:END -->
 
 ---
