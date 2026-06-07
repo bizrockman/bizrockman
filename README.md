@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits — working through LinkedinRedakteur architecture. Enum migrations, persistence layer, and wizard flow mapped out. Sketching Stage 5 web GUI next.
+> 📚 **Now:** Latest push was five days back — sketching Stage 3+ workflow for the editorial agent. Design notes accumulating on persistence layer and multi-platform wizard steps.
 >
-> *Updated: 2026-06-06*
+> *Updated: 2026-06-07*
 <!-- NOW:END -->
 
 ---
