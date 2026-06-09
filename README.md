@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Six days since last commit — designing Stage 3+ of the LinkedIn Editorial Agent. Enum migrations and persistence layer solidifying in the background.
+> 🛠️ **Now:** Wiring event-based hooks into the MCS Tool-Call lifecycle while building out LinkedinRedakteur's Telegram and LinkedIn wizard steps. Consolidating persistence layer with safe enum migrations.
 >
-> *Updated: 2026-06-08*
+> *Updated: 2026-06-09*
 <!-- NOW:END -->
 
 ---
