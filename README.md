@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Wiring event-based hooks into the MCS Tool-Call lifecycle while building out LinkedinRedakteur's Telegram and LinkedIn wizard steps. Consolidating persistence layer with safe enum migrations.
+> 📚 **Now:** 37 days out from commits. Last work was on llm-websearch — tuning the API service, adding typed endpoints, documenting the fork's shape. Quiet now; thinking about what's next.
 >
-> *Updated: 2026-06-09*
+> *Updated: 2026-06-10*
 <!-- NOW:END -->
 
 ---
