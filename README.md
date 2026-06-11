@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** 37 days out from commits. Last work was on llm-websearch — tuning the API service, adding typed endpoints, documenting the fork's shape. Quiet now; thinking about what's next.
+> 🛠️ **Now:** Refining event-based hook system for Tool-Call lifecycle in python-sdk. Parallel work on LinkedinRedakteur: enum migration safety and Stage 1/2 wizard flow.
 >
-> *Updated: 2026-06-10*
+> *Updated: 2026-06-11*
 <!-- NOW:END -->
 
 ---
