@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Refining event-based hook system for Tool-Call lifecycle in python-sdk. Parallel work on LinkedinRedakteur: enum migration safety and Stage 1/2 wizard flow.
+> 🛠️ **Now:** Refining event-based hooks in the MCS driver core. LinkedinRedakteur moving through wizard stages — SQL migrations and README updates tracking progress.
 >
-> *Updated: 2026-06-11*
+> *Updated: 2026-06-12*
 <!-- NOW:END -->
 
 ---
