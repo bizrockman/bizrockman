@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits — sketching event-based hook patterns for modelcontextstandard/python-sdk and thinking through enum migration safety in LinkedinRedakteur.
+> 🧠 **Now:** Quiet stretch on commits — sketching out notification systems for modelcontextstandard/python-sdk and mulling over LinkedinRedakteur's Stage 5 roadmap.
 >
-> *Updated: 2026-06-13*
+> *Updated: 2026-06-14*
 <!-- NOW:END -->
 
 ---
