@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits — sketching out notification systems for modelcontextstandard/python-sdk and mulling over LinkedinRedakteur's Stage 5 roadmap.
+> 🧠 **Now:** Quiet stretch on commits. Sketching event-based lifecycle hooks for Tool-Call in the MCS Python SDK and working through enum migration patterns in LinkedinRedakteur.
 >
-> *Updated: 2026-06-14*
+> *Updated: 2026-06-15*
 <!-- NOW:END -->
 
 ---
