@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits. Sketching event-based lifecycle hooks for Tool-Call in the MCS Python SDK, and rethinking enum safety in LinkedinRedakteur's migration layer.
+> 🧠 **Now:** Quiet stretch on commits. Sketching event-based lifecycle hooks for Tool-Call in the MCS Python SDK and thinking through migration patterns in LinkedinRedakteur.
 >
-> *Updated: 2026-06-19*
+> *Updated: 2026-06-20*
 <!-- NOW:END -->
 
 ---
