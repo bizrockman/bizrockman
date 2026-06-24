@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits. Last work touched Tool-Call lifecycle hooks in mcs-driver-core and enum safety in LinkedinRedakteur. Heads-down on design questions.
+> 🧠 **Now:** Quiet on commits — thinking through lifecycle notifications in the MCS Tool-Call system and enum safety in LinkedinRedakteur. Design notes accumulating.
 >
-> *Updated: 2026-06-23*
+> *Updated: 2026-06-24*
 <!-- NOW:END -->
 
 ---
