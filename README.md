@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet on commits — thinking through lifecycle notifications in the MCS Tool-Call system and enum safety in LinkedinRedakteur. Design notes accumulating.
+> 📚 **Now:** Quiet spell on commits. Last work touched event hooks in mcs-driver-core and enum safety in LinkedinRedakteur. Likely reading and thinking through design tradeoffs.
 >
-> *Updated: 2026-06-24*
+> *Updated: 2026-06-25*
 <!-- NOW:END -->
 
 ---
