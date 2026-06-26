@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet spell on commits. Last work touched event hooks in mcs-driver-core and enum safety in LinkedinRedakteur. Likely reading and thinking through design tradeoffs.
+> 🛠️ **Now:** Updating python-sdk and docs to align on native tool-calling. Renamed DriverContext to NativeToolContext and cleaned up outdated spec sections. SDK and docs now in sync.
 >
-> *Updated: 2026-06-25*
+> *Updated: 2026-06-26*
 <!-- NOW:END -->
 
 ---
