@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Updating python-sdk and docs to align on native tool-calling. Renamed DriverContext to NativeToolContext and cleaned up outdated spec sections. SDK and docs now in sync.
+> ⚙️ **Now:** Wiring up BaseDecorator, AuthChallenge, and permission handling in the python-sdk. Docs updated on the detect → resolve → call sequence for optional capabilities.
 >
-> *Updated: 2026-06-26*
+> *Updated: 2026-06-27*
 <!-- NOW:END -->
 
 ---
