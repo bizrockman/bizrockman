@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Wiring up the decorator and capability system in modelcontextstandard. Just clarified the detect → resolve → call sequence in docs and landed BaseDecorator with AuthChallenge tests.
+> 🛠️ **Now:** Wiring up BaseDecorator and AuthDecorator in the python-sdk. Updated docs on how decorators delegate interfaces and resolve capabilities. Auth flow taking shape.
 >
-> *Updated: 2026-06-28*
+> *Updated: 2026-06-29*
 <!-- NOW:END -->
 
 ---
