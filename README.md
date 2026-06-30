@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Wiring up BaseDecorator and AuthDecorator in the python-sdk. Updated docs on how decorators delegate interfaces and resolve capabilities. Auth flow taking shape.
+> 🧠 **Now:** Quiet on commits — working through decorator interface design and capability resolution in modelcontextstandard. Documentation layers in place; next is solidifying the auth challenge flow.
 >
-> *Updated: 2026-06-29*
+> *Updated: 2026-06-30*
 <!-- NOW:END -->
 
 ---
