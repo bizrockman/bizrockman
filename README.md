@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet on commits — working through decorator interface design and capability resolution in modelcontextstandard. Documentation layers in place; next is solidifying the auth challenge flow.
+> ✏️ **Now:** Clarifying capability detection and decorator stacks in modelcontextstandard docs and python-sdk. Working through how clients interact with transparent vs opaque wrappers in the detect → resolve → call sequence.
 >
-> *Updated: 2026-06-30*
+> *Updated: 2026-07-01*
 <!-- NOW:END -->
 
 ---
