@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> ✏️ **Now:** Clarifying capability detection and decorator stacks in modelcontextstandard docs and python-sdk. Working through how clients interact with transparent vs opaque wrappers in the detect → resolve → call sequence.
+> 🛠️ **Now:** Shipping extraction strategy and driver response enhancements in modelcontextstandard/python-sdk. Wiring up Gmail agent with permission hooks and cleaning up ToolCallSignaling patterns.
 >
-> *Updated: 2026-07-01*
+> *Updated: 2026-07-02*
 <!-- NOW:END -->
 
 ---
