@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping extraction strategy and driver response enhancements in modelcontextstandard/python-sdk. Wiring up Gmail agent with permission hooks and cleaning up ToolCallSignaling patterns.
+> 🛠️ **Now:** Reworking chat_stream, extraction strategy, and driver response handling in python-sdk. Adding native tools support and ToolCallRecord for cleaner agent patterns.
 >
-> *Updated: 2026-07-02*
+> *Updated: 2026-07-03*
 <!-- NOW:END -->
 
 ---
