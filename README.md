@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Reworking chat_stream, extraction strategy, and driver response handling in python-sdk. Adding native tools support and ToolCallRecord for cleaner agent patterns.
+> 🛠️ **Now:** Reworking chat_stream and response handling in python-sdk to surface tool calls cleanly. Introduced ToolCallRecord and ExtractedCall classes. Gmail agent getting permission and hooks decorators wired in.
 >
-> *Updated: 2026-07-03*
+> *Updated: 2026-07-04*
 <!-- NOW:END -->
 
 ---
