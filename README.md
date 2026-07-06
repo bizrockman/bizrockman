@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Building out tool call abstractions in python-sdk — ExtractedCall, ToolCallRecord, native tools support. Chat streaming and driver response handling getting revamped for clarity.
+> 🧠 **Now:** Quiet stretch on commits — working through tool call handling and extraction strategy in python-sdk. Thinking through the next phase of agent patterns.
 >
-> *Updated: 2026-07-05*
+> *Updated: 2026-07-06*
 <!-- NOW:END -->
 
 ---
