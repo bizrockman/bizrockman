@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits — working through tool call handling and extraction strategy in python-sdk. Thinking through the next phase of agent patterns.
+> 🛠️ **Now:** Wiring up tool call extraction and buffer management in the python-sdk BaseDriver. Rewrote docs on decorator stacks and capability detection to clarify how clients interact with tool-call capabilities.
 >
-> *Updated: 2026-07-06*
+> *Updated: 2026-07-07*
 <!-- NOW:END -->
 
 ---
