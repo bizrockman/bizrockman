@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Building out buffer management and multi-call support in python-sdk BaseDriver. Tightening docs on decorator stacks and capability detection in the MCSDriver interface.
+> 🛠️ **Now:** Working through tool call extraction and buffer management in the python-sdk BaseDriver. Docs getting clearer on decorator stacks and capability detection in the MCSDriver interface.
 >
-> *Updated: 2026-07-08*
+> *Updated: 2026-07-09*
 <!-- NOW:END -->
 
 ---
