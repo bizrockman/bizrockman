@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits. Working through tool call extraction and buffer management in the python-sdk, with documentation updates settling in. Thinking through the decorator stack's role in capability detection.
+> 🧠 **Now:** Quiet stretch on commits — working through tool-call buffer mechanics and decorator patterns in the python-sdk. Refining how BaseDriver handles multi-call extraction.
 >
-> *Updated: 2026-07-10*
+> *Updated: 2026-07-11*
 <!-- NOW:END -->
 
 ---
