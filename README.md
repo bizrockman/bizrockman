@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits — working through tool-call buffer mechanics and decorator patterns in the python-sdk. Refining how BaseDriver handles multi-call extraction.
+> 📚 **Now:** Last push was five days back. Danny's reading through the python-sdk and docs work on tool calls and buffer handling — sketching out how extraction and streaming fit together in BaseDriver.
 >
-> *Updated: 2026-07-11*
+> *Updated: 2026-07-12*
 <!-- NOW:END -->
 
 ---
