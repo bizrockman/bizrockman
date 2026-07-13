@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Last push was five days back. Danny's reading through the python-sdk and docs work on tool calls and buffer handling — sketching out how extraction and streaming fit together in BaseDriver.
+> 📚 **Now:** Quiet on commits — head's in the design space around tool-call extraction and buffer management in python-sdk. Documentation work settling into place.
 >
-> *Updated: 2026-07-12*
+> *Updated: 2026-07-13*
 <!-- NOW:END -->
 
 ---
