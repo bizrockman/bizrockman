@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet on commits — head's in the design space around tool-call extraction and buffer management in python-sdk. Documentation work settling into place.
+> 📚 **Now:** Quiet stretch on commits — deep in ModelContextStandard SDK architecture and documentation for tool calling and buffer management. Sketching out cleaner patterns for multi-call extraction.
 >
-> *Updated: 2026-07-13*
+> *Updated: 2026-07-14*
 <!-- NOW:END -->
 
 ---
