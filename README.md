@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits — deep in ModelContextStandard SDK architecture and documentation for tool calling and buffer management. Sketching out cleaner patterns for multi-call extraction.
+> 📚 **Now:** Quiet week on commits — deep in modelcontextstandard docs clarifying how decorators aggregate capabilities and interact with the driver interface. Design notes accumulating.
 >
-> *Updated: 2026-07-14*
+> *Updated: 2026-07-15*
 <!-- NOW:END -->
 
 ---
