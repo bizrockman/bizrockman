@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet week on commits — deep in modelcontextstandard docs clarifying how decorators aggregate capabilities and interact with the driver interface. Design notes accumulating.
+> 📚 **Now:** Quiet stretch on commits — deep in modelcontextstandard docs refining how decorators and orchestrators handle capability aggregation. Working through transparent vs opaque wrapper semantics.
 >
-> *Updated: 2026-07-15*
+> *Updated: 2026-07-16*
 <!-- NOW:END -->
 
 ---
