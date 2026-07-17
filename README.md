@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits — deep in modelcontextstandard docs refining how decorators and orchestrators handle capability aggregation. Working through transparent vs opaque wrapper semantics.
+> 📚 **Now:** Quiet spell on commits — working through decorator and orchestrator documentation in modelcontextstandard. Clarifying how capability aggregation works across the stack.
 >
-> *Updated: 2026-07-16*
+> *Updated: 2026-07-17*
 <!-- NOW:END -->
 
 ---
