@@ -2,5 +2,5 @@
   "last_posted_sha": null,
   "last_style": null,
   "last_posted_at": null,
-  "last_considered_sha": "octaro-ai/cephix::Update .gitignore to include new entries for .claude and .cursor files::2026-05-12T15:48:38.000+02:00"
+  "last_considered_sha": "modelcontextstandard/docs::Refine documentation on decorators and capability detection in the MCSDriver interface. Enhanced clarity on the decorator stack's role in aggregating flags and improved explanations of client interactions with tool-call capabilities.::2026-07-07T15:27:41.000+02:00"
 }

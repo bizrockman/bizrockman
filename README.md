@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet spell on commits — working through decorator and orchestrator documentation in modelcontextstandard. Clarifying how capability aggregation works across the stack.
+> 📚 **Now:** Quiet spell on commits — working through capability detection and decorator stack documentation in modelcontextstandard. Clarifying how transparent wrappers aggregate flags across the MCSDriver interface.
 >
-> *Updated: 2026-07-17*
+> *Updated: 2026-07-18*
 <!-- NOW:END -->
 
 ---
