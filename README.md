@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet spell on commits — working through capability detection and decorator stack documentation in modelcontextstandard. Clarifying how transparent wrappers aggregate flags across the MCSDriver interface.
+> 📚 **Now:** Quiet stretch on commits — deep in modelcontextstandard docs refining how decorators aggregate capabilities and orchestrators resolve them. Design notes accumulating faster than code.
 >
-> *Updated: 2026-07-18*
+> *Updated: 2026-07-19*
 <!-- NOW:END -->
 
 ---
