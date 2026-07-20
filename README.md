@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits — deep in modelcontextstandard docs refining how decorators aggregate capabilities and orchestrators resolve them. Design notes accumulating faster than code.
+> 📚 **Now:** Quiet on commits. Focused on clarifying how decorators aggregate capabilities in the MCS framework. Writing through the distinction between transparent and opaque wrappers.
 >
-> *Updated: 2026-07-19*
+> *Updated: 2026-07-20*
 <!-- NOW:END -->
 
 ---
