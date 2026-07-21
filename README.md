@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet on commits. Focused on clarifying how decorators aggregate capabilities in the MCS framework. Writing through the distinction between transparent and opaque wrappers.
+> 📚 **Now:** Quiet on commits — focused on clarifying decorator stack architecture and capability detection in modelcontextstandard docs. Sorting through orchestrator patterns and transparent wrapper semantics.
 >
-> *Updated: 2026-07-20*
+> *Updated: 2026-07-21*
 <!-- NOW:END -->
 
 ---
