@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet on commits — deep in modelcontextstandard docs and SDK design. Working through decorator stack semantics and how capability detection flows through orchestrators.
+> 📚 **Now:** Quiet stretch on commits — deep in modelcontextstandard docs work, refining decorator patterns and capability aggregation. Notes settling on transparent vs opaque wrapper semantics.
 >
-> *Updated: 2026-07-22*
+> *Updated: 2026-07-23*
 <!-- NOW:END -->
 
 ---
