@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits — deep in modelcontextstandard docs work, refining decorator patterns and capability aggregation. Notes settling on transparent vs opaque wrapper semantics.
+> 📚 **Now:** 17 days since last commit — deep in the weeds on modelcontextstandard docs and python-sdk. Refining how decorators aggregate capability flags and clarifying the transparent vs opaque wrapper distinction.
 >
-> *Updated: 2026-07-23*
+> *Updated: 2026-07-24*
 <!-- NOW:END -->
 
 ---
