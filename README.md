@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** 17 days since last commit — deep in the weeds on modelcontextstandard docs and python-sdk. Refining how decorators aggregate capability flags and clarifying the transparent vs opaque wrapper distinction.
+> 📚 **Now:** Quiet stretch on commits — deep in the weeds on MCS decorator patterns and capability aggregation. Writing clarifications on transparent vs opaque wrapper semantics in modelcontextstandard/docs.
 >
-> *Updated: 2026-07-24*
+> *Updated: 2026-07-25*
 <!-- NOW:END -->
 
 ---
