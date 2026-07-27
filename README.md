@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits — deep in modelcontextstandard docs and SDK work. Refining how decorators and orchestrators surface capabilities, with focus on transparent vs opaque wrapper semantics.
+> 📚 **Now:** Quiet stretch on commits. Working through decorator patterns and capability detection in the MCS framework. Sketching clearer mental models around transparent vs opaque wrappers.
 >
-> *Updated: 2026-07-26*
+> *Updated: 2026-07-27*
 <!-- NOW:END -->
 
 ---
