@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits. Working through decorator patterns and capability detection in the MCS framework. Sketching clearer mental models around transparent vs opaque wrappers.
+> 📚 **Now:** 21 days out from commits. Focused on clarifying decorator stack mechanics and capability detection in the MCS specification. Deep in the docs layer.
 >
-> *Updated: 2026-07-27*
+> *Updated: 2026-07-28*
 <!-- NOW:END -->
 
 ---
