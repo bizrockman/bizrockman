@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** 21 days out from commits. Focused on clarifying decorator stack mechanics and capability detection in the MCS specification. Deep in the docs layer.
+> 📚 **Now:** Quiet spell on commits. Working through decorator patterns and capability detection in modelcontextstandard docs — thinking through how transparent stacks aggregate flags for client interactions.
 >
-> *Updated: 2026-07-28*
+> *Updated: 2026-07-29*
 <!-- NOW:END -->
 
 ---
