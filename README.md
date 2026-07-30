@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet spell on commits. Working through decorator patterns and capability detection in modelcontextstandard docs — thinking through how transparent stacks aggregate flags for client interactions.
+> 📚 **Now:** Quiet spell on commits. Last work touched MCS docs on decorators and capability detection. Likely sketching or studying something deeper.
 >
-> *Updated: 2026-07-29*
+> *Updated: 2026-07-30*
 <!-- NOW:END -->
 
 ---
