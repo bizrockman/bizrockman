@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet spell on commits. Last work touched MCS docs on decorators and capability detection. Likely sketching or studying something deeper.
+> 📚 **Now:** Long quiet stretch. Studying the decorator patterns in modelcontextstandard and how capability detection flows through client interfaces. Sketching notes on MCSDriver design.
 >
-> *Updated: 2026-07-30*
+> *Updated: 2026-07-31*
 <!-- NOW:END -->
 
 ---
