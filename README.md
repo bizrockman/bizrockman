@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Long quiet stretch. Studying the decorator patterns in modelcontextstandard and how capability detection flows through client interfaces. Sketching notes on MCSDriver design.
+> 📚 **Now:** 25 days out. Studying decorator patterns and capability detection in model context protocols. Notes accumulating on MCSDriver interface design.
 >
-> *Updated: 2026-07-31*
+> *Updated: 2026-08-01*
 <!-- NOW:END -->
 
 ---
