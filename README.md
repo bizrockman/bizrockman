@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** 26 days out — deep in documentation and design thinking. Last work was on MCSDriver decorator patterns and capability detection clarity.
+> 📚 **Now:** Long quiet stretch on commits. Digging into MCS decorator patterns and capability detection design. Thinking through how client-side tool introspection should work.
 >
-> *Updated: 2026-08-02*
+> *Updated: 2026-08-03*
 <!-- NOW:END -->
 
 ---
