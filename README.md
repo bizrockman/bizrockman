@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Long quiet stretch on commits. Digging into MCS decorator patterns and capability detection design. Thinking through how client-side tool introspection should work.
+> 🛠️ **Now:** Shipping Gmail agent enhancements and middleware docs into modelcontextstandard/python-sdk. Cleaning up deprecated chat client examples, wiring in better tool call handling.
 >
-> *Updated: 2026-08-03*
+> *Updated: 2026-08-04*
 <!-- NOW:END -->
 
 ---
