@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping Gmail agent enhancements and middleware docs into modelcontextstandard/python-sdk. Cleaning up deprecated chat client examples, wiring in better tool call handling.
+> 🛠️ **Now:** Refactoring ChatSession in python-sdk to support multiple drivers. Added web driver stack and title extraction tests. Re-enabled Brave in llm-websearch and shipped engine health checks via GET /engines.
 >
-> *Updated: 2026-08-04*
+> *Updated: 2026-08-05*
 <!-- NOW:END -->
 
 ---
