@@ -7,7 +7,7 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Wiring up multiple drivers in python-sdk ChatSession with better buffer handling. Also adding engine health checks to llm-websearch and fixing Brave search reliability.
+> 🛠️ **Now:** Wiring up multiple driver support and buffer management in the MCS python-sdk. Also patching llm-websearch engine health checks and Brave search reliability.
 >
 > *Updated: 2026-08-07*
 <!-- NOW:END -->
