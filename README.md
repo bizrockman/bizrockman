@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Refactoring ChatSession in python-sdk to support multiple drivers. Added web driver stack and title extraction tests. Re-enabled Brave in llm-websearch and shipped engine health checks via GET /engines.
+> 🛠️ **Now:** Wiring up multiple drivers in python-sdk ChatSession with better buffer handling. Also adding engine health checks to llm-websearch and fixing Brave search reliability.
 >
-> *Updated: 2026-08-05*
+> *Updated: 2026-08-07*
 <!-- NOW:END -->
 
 ---
