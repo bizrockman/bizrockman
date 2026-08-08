@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Wiring up multiple driver support and buffer management in the MCS python-sdk. Also patching llm-websearch engine health checks and Brave search reliability.
+> 🧠 **Now:** Quiet on commits — working through ChatSession refactoring patterns in python-sdk. Sketching how multiple drivers compose and buffer state. Also thinking about graceful degradation in llm-websearch engine fallbacks.
 >
-> *Updated: 2026-08-07*
+> *Updated: 2026-08-08*
 <!-- NOW:END -->
 
 ---
