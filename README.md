@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet on commits — working through ChatSession refactoring patterns in python-sdk. Sketching how multiple drivers compose and buffer state. Also thinking about graceful degradation in llm-websearch engine fallbacks.
+> 🧠 **Now:** Four days since last commit. Sketching out what multi-driver support means for ChatSession. Reading through the title extraction tests to understand precedence rules better.
 >
-> *Updated: 2026-08-08*
+> *Updated: 2026-08-09*
 <!-- NOW:END -->
 
 ---
