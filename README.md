@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits. Spent time on ChatSession refactors and title extraction in python-sdk, plus engine health checks in llm-websearch. Sketching next moves.
+> 🛠️ **Now:** Updating the Model Context Standard SDK — renamed extraction strategies for clarity, bumped Python to 3.11, and wiring in mcs-prompts for better summarization. Docs in sync.
 >
-> *Updated: 2026-08-10*
+> *Updated: 2026-08-11*
 <!-- NOW:END -->
 
 ---
