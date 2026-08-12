@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Updating the Model Context Standard SDK — renamed extraction strategies for clarity, bumped Python to 3.11, and wiring in mcs-prompts for better summarization. Docs in sync.
+> 🛠️ **Now:** Wiring mcs-prompts into the SDK, standardizing extraction strategies across OpenAI and Anthropic implementations, and bumping Python to 3.11. Docs updated to match the new naming.
 >
-> *Updated: 2026-08-11*
+> *Updated: 2026-08-12*
 <!-- NOW:END -->
 
 ---
