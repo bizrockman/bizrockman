@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Wiring mcs-prompts into the SDK, standardizing extraction strategies across OpenAI and Anthropic implementations, and bumping Python to 3.11. Docs updated to match the new naming.
+> 🛠️ **Now:** Standardizing extraction strategy naming across python-sdk and docs. Added metadata configuration to prompts and bumped Python requirement to 3.11. Enhancing summarization with new dependencies.
 >
-> *Updated: 2026-08-12*
+> *Updated: 2026-08-13*
 <!-- NOW:END -->
 
 ---
