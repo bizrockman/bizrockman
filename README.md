@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Standardizing extraction strategy naming across python-sdk and docs. Added metadata configuration to prompts and bumped Python requirement to 3.11. Enhancing summarization with new dependencies.
+> 🛠️ **Now:** Updating python-sdk with new extraction strategy naming and adding mcs-prompts integration. Docs are in sync with the API changes.
 >
-> *Updated: 2026-08-13*
+> *Updated: 2026-08-14*
 <!-- NOW:END -->
 
 ---
