@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Updating python-sdk with new extraction strategy naming and adding mcs-prompts integration. Docs are in sync with the API changes.
+> 📚 **Now:** Quiet stretch on commits. Last push standardized extraction naming across python-sdk and docs — CompletionExtractionStrategy, MessagesExtractionStrategy. Absorbing the shape of that change.
 >
-> *Updated: 2026-08-14*
+> *Updated: 2026-08-15*
 <!-- NOW:END -->
 
 ---
