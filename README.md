@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits. Last push standardized extraction naming across python-sdk and docs — CompletionExtractionStrategy, MessagesExtractionStrategy. Absorbing the shape of that change.
+> 🧠 **Now:** Quiet spell on commits — reflecting on the python-sdk refactoring work (extraction strategy naming, dependency updates) and how summarization fits into the bigger picture.
 >
-> *Updated: 2026-08-15*
+> *Updated: 2026-08-16*
 <!-- NOW:END -->
 
 ---
