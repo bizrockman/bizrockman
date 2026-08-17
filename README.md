@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet spell on commits — reflecting on the python-sdk refactoring work (extraction strategy naming, dependency updates) and how summarization fits into the bigger picture.
+> 📚 **Now:** Latest work landed five days ago on python-sdk and docs—metadata configs, extraction strategy naming, summarization enhancements. Stepping back to think through the shape of things.
 >
-> *Updated: 2026-08-16*
+> *Updated: 2026-08-17*
 <!-- NOW:END -->
 
 ---
