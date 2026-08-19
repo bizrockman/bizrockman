@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Six days since last commit — Danny's sketching out the extraction strategy rename across python-sdk and docs. Consolidating CompletionExtractionStrategy and MessagesExtractionStrategy patterns.
+> 📚 **Now:** Quiet week on commits. Last work touched summarization in python-sdk and doc updates for extraction strategies. Likely reviewing patterns and taking stock.
 >
-> *Updated: 2026-08-18*
+> *Updated: 2026-08-19*
 <!-- NOW:END -->
 
 ---
