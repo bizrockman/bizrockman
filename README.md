@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Latest push was 8 days back. Focused on extraction strategy naming and summarization enhancements in python-sdk. Stepping back to absorb the shape of what's been built.
+> 📚 **Now:** Nine days since last commit. Digesting the python-sdk refactor (extraction strategy renames, prompt metadata) and docs alignment. Sketching next moves.
 >
-> *Updated: 2026-08-20*
+> *Updated: 2026-08-21*
 <!-- NOW:END -->
 
 ---
