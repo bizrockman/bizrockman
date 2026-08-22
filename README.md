@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Nine days since last commit. Digesting the python-sdk refactor (extraction strategy renames, prompt metadata) and docs alignment. Sketching next moves.
+> 📚 **Now:** Quiet stretch on commits. Last work landed metadata and summarization enhancements in python-sdk, plus docs refactor around extraction strategies. Reading through the MCS architecture.
 >
-> *Updated: 2026-08-21*
+> *Updated: 2026-08-22*
 <!-- NOW:END -->
 
 ---
