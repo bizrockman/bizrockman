@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Last commits landed 11 days ago on python-sdk and docs—work on extraction strategy naming and summarization features. Quiet stretch now; likely reviewing patterns and thinking through next moves.
+> 📚 **Now:** Last active 12 days ago on python-sdk and docs. Recent work touched summarization features, extraction strategy naming, and Python version requirements. Likely sketching next moves.
 >
-> *Updated: 2026-08-23*
+> *Updated: 2026-08-24*
 <!-- NOW:END -->
 
 ---
