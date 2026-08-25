@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Last active 12 days ago on python-sdk and docs. Recent work touched summarization features, extraction strategy naming, and Python version requirements. Likely sketching next moves.
+> 🛠️ **Now:** Shipping improvements to chat.py, adapter logic, and model display in the python-sdk. Focus on budget handling, API key management, and adapter package structure.
 >
-> *Updated: 2026-08-24*
+> *Updated: 2026-08-25*
 <!-- NOW:END -->
 
 ---
