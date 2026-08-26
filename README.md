@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping improvements to chat.py, adapter logic, and model display in the python-sdk. Focus on budget handling, API key management, and adapter package structure.
+> 📚 **Now:** 14 days since last commit. Heads down on python-sdk and docs—extraction strategy refactors, summarization enhancements, dependency updates. Thinking through the next phase.
 >
-> *Updated: 2026-08-25*
+> *Updated: 2026-08-26*
 <!-- NOW:END -->
 
 ---
