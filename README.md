@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** 14 days since last commit. Heads down on python-sdk and docs—extraction strategy refactors, summarization enhancements, dependency updates. Thinking through the next phase.
+> 📚 **Now:** Latest work landed 15 days ago — wrapped up summarization enhancements and extraction strategy refactors in python-sdk. Likely sketching next phase or reading through what's queued.
 >
-> *Updated: 2026-08-26*
+> *Updated: 2026-08-28*
 <!-- NOW:END -->
 
 ---
