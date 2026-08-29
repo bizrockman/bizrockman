@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Latest work landed 15 days ago — wrapped up summarization enhancements and extraction strategy refactors in python-sdk. Likely sketching next phase or reading through what's queued.
+> 📚 **Now:** Sixteen days out — stepping back from the modelcontextstandard/python-sdk work. Extracting lessons from the recent extraction strategy refactor and dependency updates. Sketching next moves on paper.
 >
-> *Updated: 2026-08-28*
+> *Updated: 2026-08-29*
 <!-- NOW:END -->
 
 ---
