@@ -7,7 +7,7 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Sixteen days out — stepping back from the modelcontextstandard/python-sdk work. Extracting lessons from the recent extraction strategy refactor and dependency updates. Sketching next moves on paper.
+> 📚 **Now:** Quiet spell on commits. Last work was refactoring extraction strategies in the python-sdk and updating docs. Likely reading through design decisions and sketching next phases.
 >
 > *Updated: 2026-08-29*
 <!-- NOW:END -->
