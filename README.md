@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet spell on commits. Last work was refactoring extraction strategies in the python-sdk and updating docs. Likely reading through design decisions and sketching next phases.
+> 📚 **Now:** Quiet stretch on commits. Last work was refactoring extraction strategies in the python-sdk and docs — consolidating OpenAI/Anthropic patterns into unified interfaces. Likely reading through the changes and sketching next moves.
 >
-> *Updated: 2026-08-29*
+> *Updated: 2026-08-30*
 <!-- NOW:END -->
 
 ---
