@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits. Last work was refactoring extraction strategies in the python-sdk and docs — consolidating OpenAI/Anthropic patterns into unified interfaces. Likely reading through the changes and sketching next moves.
+> 📚 **Now:** 19 days since last commit. Absorbed in MCS spec work — extraction strategy refactoring, summarization patterns, Python 3.11 migration. Digesting how the pieces fit together before the next push.
 >
-> *Updated: 2026-08-30*
+> *Updated: 2026-08-31*
 <!-- NOW:END -->
 
 ---
