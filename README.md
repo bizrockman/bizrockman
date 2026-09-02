@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Building out the mcs-driver-bash package and adding ShellSpec to LocalAdapter for better shell detection. Wiring up LLM usage tracking across components in python-sdk.
+> 🛠️ **Now:** Adding ShellSpec and shell detection to the python-sdk LocalAdapter. Wiring up mcs-driver-bash package and refining LLM usage tracking across components.
 >
-> *Updated: 2026-09-01*
+> *Updated: 2026-09-02*
 <!-- NOW:END -->
 
 ---
