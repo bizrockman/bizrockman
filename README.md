@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> ⚙️ **Now:** Built out shell detection and bash driver package in python-sdk. Tracking LLM usage across components. Quiet on commits now — likely sketching next phase.
+> 🧠 **Now:** Quiet stretch on commits — working through shell detection and driver package structure in python-sdk. Sketching out how LLM usage tracking fits into the larger picture.
 >
-> *Updated: 2026-09-04*
+> *Updated: 2026-09-05*
 <!-- NOW:END -->
 
 ---
