@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits — working through shell detection and driver package structure in python-sdk. Sketching out how LLM usage tracking fits into the larger picture.
+> 📚 **Now:** Latest work on python-sdk wrapped shell detection and driver packages. Quiet spell now — absorbing patterns in the MCS spec and how the pieces fit together.
 >
-> *Updated: 2026-09-05*
+> *Updated: 2026-09-06*
 <!-- NOW:END -->
 
 ---
