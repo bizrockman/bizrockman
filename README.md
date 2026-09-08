@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Last push was six days back on python-sdk — shell detection and driver packages. Likely reviewing the broader MCP integration landscape and how drivers compose.
+> 📚 **Now:** Last push was a week ago on python-sdk — shell detection, driver packages, LLM tracking. Likely stepping back to read through the broader MCP ecosystem and design decisions.
 >
-> *Updated: 2026-09-07*
+> *Updated: 2026-09-08*
 <!-- NOW:END -->
 
 ---
