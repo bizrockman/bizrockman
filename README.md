@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits. Last work landed shell detection and driver packages in python-sdk. Reading through the MCP spec and thinking about adapter patterns.
+> 📚 **Now:** Last push was 10 days ago on python-sdk — shell detection and driver packages. Likely reading through spec details and design patterns before the next push.
 >
-> *Updated: 2026-09-10*
+> *Updated: 2026-09-11*
 <!-- NOW:END -->
 
 ---
