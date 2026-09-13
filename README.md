@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch on commits. Last push was shell detection and driver packages on python-sdk. Likely heads-down on design notes for what's next.
+> 📚 **Now:** Twelve days since last push to python-sdk. Likely digesting the shell adapter work and LLM tracking changes before the next move.
 >
-> *Updated: 2026-09-12*
+> *Updated: 2026-09-13*
 <!-- NOW:END -->
 
 ---
