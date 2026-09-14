@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Twelve days since last push to python-sdk. Likely digesting the shell adapter work and LLM tracking changes before the next move.
+> 🧠 **Now:** 13 days out from commits. Been working through the model context protocol — shell detection, driver packaging, LLM tracking. Likely thinking through next moves on the python-sdk architecture.
 >
-> *Updated: 2026-09-13*
+> *Updated: 2026-09-14*
 <!-- NOW:END -->
 
 ---
