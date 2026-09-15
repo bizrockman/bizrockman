@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** 13 days out from commits. Been working through the model context protocol — shell detection, driver packaging, LLM tracking. Likely thinking through next moves on the python-sdk architecture.
+> 📚 **Now:** Quiet spell on commits — last work landed shell detection and driver packaging for the Python SDK. Currently reading through patterns for extensible driver systems.
 >
-> *Updated: 2026-09-14*
+> *Updated: 2026-09-15*
 <!-- NOW:END -->
 
 ---
