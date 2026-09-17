@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits. Last push was shell detection and driver packaging work on python-sdk. Likely thinking through the next layer of the MCP ecosystem.
+> 📚 **Now:** Quiet stretch on commits. Last work was shell detection and LLM tracking in python-sdk. Likely reading through MCP spec and driver architecture docs.
 >
-> *Updated: 2026-09-16*
+> *Updated: 2026-09-17*
 <!-- NOW:END -->
 
 ---
