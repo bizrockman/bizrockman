@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch. Last push was shell detection and driver refactoring in python-sdk. Likely sketching next phase of the Model Context Protocol work.
+> 🧠 **Now:** 18 days since last commit — deep in design work on the python-sdk's LocalAdapter and shell detection. Built out ShellSpec and bash driver foundations. Thinking through the next phase.
 >
-> *Updated: 2026-09-18*
+> *Updated: 2026-09-19*
 <!-- NOW:END -->
 
 ---
