@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** 18 days since last commit — deep in design work on the python-sdk's LocalAdapter and shell detection. Built out ShellSpec and bash driver foundations. Thinking through the next phase.
+> 🧠 **Now:** Quiet on commits for three weeks. Last work was shell detection and driver packaging in the MCS Python SDK. Likely sketching the next phase of the architecture.
 >
-> *Updated: 2026-09-19*
+> *Updated: 2026-09-20*
 <!-- NOW:END -->
 
 ---
