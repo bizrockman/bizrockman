@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet on commits for three weeks. Last work was shell detection and driver packaging in the MCS Python SDK. Likely sketching the next phase of the architecture.
+> 📚 **Now:** 20 days out from commits — sketching next moves on the modelcontextstandard/python-sdk. Shell detection and driver packaging work landed. Thinking through broader adapter patterns.
 >
-> *Updated: 2026-09-20*
+> *Updated: 2026-09-21*
 <!-- NOW:END -->
 
 ---
