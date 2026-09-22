@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** 20 days out from commits — sketching next moves on the modelcontextstandard/python-sdk. Shell detection and driver packaging work landed. Thinking through broader adapter patterns.
+> 📚 **Now:** Built out shell detection and bash driver for the python-sdk. Quiet on commits now — digesting patterns from the larger MCS ecosystem and sketching next moves.
 >
-> *Updated: 2026-09-21*
+> *Updated: 2026-09-22*
 <!-- NOW:END -->
 
 ---
