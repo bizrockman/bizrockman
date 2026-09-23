@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Built out shell detection and bash driver for the python-sdk. Quiet on commits now — digesting patterns from the larger MCS ecosystem and sketching next moves.
+> 📚 **Now:** Quiet stretch on commits. Last work was on the Model Context Standard SDK — shell detection, driver packages, LLM tracking. Likely deep in docs or design.
 >
-> *Updated: 2026-09-22*
+> *Updated: 2026-09-23*
 <!-- NOW:END -->
 
 ---
