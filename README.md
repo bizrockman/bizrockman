@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Last commit was 24 days back — Danny's in a thinking phase. Likely processing patterns from the python-sdk work on shell detection and LLM tracking. Reading or sketching next moves.
+> 📚 **Now:** Twenty-five days out — sketching the next shape of modelcontextstandard/python-sdk. LocalAdapter shell detection and driver package structure taking form. Thinking through how shell routing scales.
 >
-> *Updated: 2026-09-25*
+> *Updated: 2026-09-26*
 <!-- NOW:END -->
 
 ---
