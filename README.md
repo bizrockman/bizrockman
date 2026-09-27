@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Twenty-five days out — sketching the next shape of modelcontextstandard/python-sdk. LocalAdapter shell detection and driver package structure taking form. Thinking through how shell routing scales.
+> 📚 **Now:** Latest push was 26 days back on the python-sdk. Likely absorbing MCP patterns and sketching next phase — shell detection and driver architecture shaped the recent work.
 >
-> *Updated: 2026-09-26*
+> *Updated: 2026-09-27*
 <!-- NOW:END -->
 
 ---
