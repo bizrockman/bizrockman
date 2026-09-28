@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Latest push was 26 days back on the python-sdk. Likely absorbing MCP patterns and sketching next phase — shell detection and driver architecture shaped the recent work.
+> 🛠️ **Now:** Adding ShellSpec and shell detection to the LocalAdapter in python-sdk. Pulling SearXNG version reporting into llm-websearch. Wiring up concrete system introspection.
 >
-> *Updated: 2026-09-27*
+> *Updated: 2026-09-28*
 <!-- NOW:END -->
 
 ---
