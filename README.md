@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Adding ShellSpec and shell detection to the LocalAdapter in python-sdk. Pulling SearXNG version reporting into llm-websearch. Wiring up concrete system introspection.
+> 🛠️ **Now:** Added ShellSpec and shell-finding logic to the LocalAdapter in python-sdk. Wiring up SearXNG version reporting in llm-websearch to handle provider variants.
 >
-> *Updated: 2026-09-28*
+> *Updated: 2026-09-29*
 <!-- NOW:END -->
 
 ---
