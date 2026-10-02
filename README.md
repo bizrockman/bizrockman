@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Last push was three days ago on llm-websearch. Likely in a thinking phase or between tasks.
+> ⚡ **Now:** Shipping EbookSummarizerToPodcast with translation and audio output. Just fixed SearXNG version reporting in llm-websearch.
 >
-> *Updated: 2026-10-01*
+> *Updated: 2026-10-02*
 <!-- NOW:END -->
 
 ---
