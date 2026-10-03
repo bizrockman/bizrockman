@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> ⚡ **Now:** Shipping EbookSummarizerToPodcast with translation and audio output. Just fixed SearXNG version reporting in llm-websearch.
+> 🛠️ **Now:** Wiring up translation and audio pipelines in EbookSummarizerToPodcast. Fixed SearXNG version reporting in llm-websearch. Adding usage tracking to the EPUB flow.
 >
-> *Updated: 2026-10-02*
+> *Updated: 2026-10-03*
 <!-- NOW:END -->
 
 ---
