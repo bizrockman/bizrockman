@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Wiring up translation and audio pipelines in EbookSummarizerToPodcast. Fixed SearXNG version reporting in llm-websearch. Adding usage tracking to the EPUB flow.
+> ⚡ **Now:** Building modular EPUB studio that handles translation, audio generation, and usage tracking. Also patched llm-websearch to surface SearXNG version info.
 >
-> *Updated: 2026-10-03*
+> *Updated: 2026-10-04*
 <!-- NOW:END -->
 
 ---
