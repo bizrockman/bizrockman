@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> ⚡ **Now:** Building modular EPUB studio that handles translation, audio generation, and usage tracking. Also patched llm-websearch to surface SearXNG version info.
+> 🧠 **Now:** Latest commits on EbookSummarizerToPodcast and llm-websearch settling in. Thinking through modular audio pipeline and search integration patterns.
 >
-> *Updated: 2026-10-04*
+> *Updated: 2026-10-05*
 <!-- NOW:END -->
 
 ---
