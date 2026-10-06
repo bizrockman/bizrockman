@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Latest commits on EbookSummarizerToPodcast and llm-websearch settling in. Thinking through modular audio pipeline and search integration patterns.
+> 🧠 **Now:** Last push was four days back. Design work brewing on EbookSummarizerToPodcast — thinking through the modular studio layers.
 >
-> *Updated: 2026-10-05*
+> *Updated: 2026-10-06*
 <!-- NOW:END -->
 
 ---
