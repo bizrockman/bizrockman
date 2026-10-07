@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Last push was four days back. Design work brewing on EbookSummarizerToPodcast — thinking through the modular studio layers.
+> 🛠️ **Now:** Shipping fixes to ocf-py for Claude integration. Building modular EPUB pipeline with translation and audio. Debugging SearXNG version reporting in llm-websearch.
 >
-> *Updated: 2026-10-06*
+> *Updated: 2026-10-07*
 <!-- NOW:END -->
 
 ---
