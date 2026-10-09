@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Fixing Claude event handling in ocf-py, shipping modular EPUB studio features, and hardening search integration. Concrete wins on the parser side this week.
+> 🛠️ **Now:** Fixing edge cases in ocf-py where Claude events lack content. Built modular EPUB studio with translation and audio tracking. Debugging SearXNG version reporting in llm-websearch.
 >
-> *Updated: 2026-10-08*
+> *Updated: 2026-10-09*
 <!-- NOW:END -->
 
 ---
