@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet on commits — thinking through the EbookSummarizerToPodcast architecture and how OCF tooling connects. Reading on streaming + translation patterns.
+> 🧠 **Now:** Quiet on commits. Digesting patterns across ocf-py, the EPUB studio, and websearch plumbing. Thinking through how these pieces connect.
 >
-> *Updated: 2026-10-10*
+> *Updated: 2026-10-11*
 <!-- NOW:END -->
 
 ---
