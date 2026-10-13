@@ -7,7 +7,7 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet on commits — working through design questions on OCF tooling and the modular EPUB pipeline. Mapping out state handling for multi-stage workflows.
+> 🧠 **Now:** Quiet on commits — building out EbookSummarizerToPodcast internals and working through OCF edge cases in the background.
 >
 > *Updated: 2026-10-13*
 <!-- NOW:END -->
