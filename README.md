@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet on commits — deep in EbookSummarizerToPodcast design. Working through modular EPUB handling and translation patterns. Reading papers on streaming audio synthesis.
+> 📚 **Now:** Quiet on commits — deep in design for EbookSummarizerToPodcast and mapping out EPUB processing pipelines. Reading through audio tooling patterns.
 >
-> *Updated: 2026-10-16*
+> *Updated: 2026-10-17*
 <!-- NOW:END -->
 
 ---
