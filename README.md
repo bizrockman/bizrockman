@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet on commits — deep in design for EbookSummarizerToPodcast and mapping out EPUB processing pipelines. Reading through audio tooling patterns.
+> 🧠 **Now:** Quiet on commits — Danny is between pushes. Last work touched OCF parsing, EPUB processing, and search integrations. Likely reviewing what's next.
 >
-> *Updated: 2026-10-17*
+> *Updated: 2026-10-18*
 <!-- NOW:END -->
 
 ---
