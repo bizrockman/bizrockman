@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet spell on commits. Digesting how ocf-py, EbookSummarizerToPodcast, and llm-websearch fit together. Notes forming around modular audio and search workflows.
+> 🧠 **Now:** Quiet on commits — 13 days out. Digesting patterns from ocf-py and EbookSummarizerToPodcast. Sketching next phase of the conversation format work.
 >
-> *Updated: 2026-10-19*
+> *Updated: 2026-10-20*
 <!-- NOW:END -->
 
 ---
