@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet on commits — 13 days out. Digesting patterns from ocf-py and EbookSummarizerToPodcast. Sketching next phase of the conversation format work.
+> 🧠 **Now:** Quiet two weeks on commits. Sketching architecture for modular EPUB processing and websearch integration. Reading through inference optimization patterns.
 >
-> *Updated: 2026-10-20*
+> *Updated: 2026-10-21*
 <!-- NOW:END -->
 
 ---
