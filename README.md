@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet on commits — working through EPUB processing architecture and LLM search patterns. Notes accumulating on audio generation workflows.
+> 🧠 **Now:** Quiet stretch on commits. Last work touched OCF parsing, EPUB handling, and search infrastructure. Likely reviewing patterns across the stack.
 >
-> *Updated: 2026-10-22*
+> *Updated: 2026-10-23*
 <!-- NOW:END -->
 
 ---
