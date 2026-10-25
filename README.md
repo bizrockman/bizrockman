@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** 17 days since last commit. Thinking through the ebook-to-podcast pipeline and search infrastructure patterns. Letting ideas settle before the next push.
+> 🛠️ **Now:** Shipping archive indexing as the source of truth in ocf-py, wiring up exporters, and fixing cursor ordering for v18 composers. Docs updated for the multi-machine workflow.
 >
-> *Updated: 2026-10-24*
+> *Updated: 2026-10-25*
 <!-- NOW:END -->
 
 ---
