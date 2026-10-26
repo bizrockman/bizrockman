@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping archive indexing as the source of truth in ocf-py, wiring up exporters, and fixing cursor ordering for v18 composers. Docs updated for the multi-machine workflow.
+> 🛠️ **Now:** Building out ocf-py indexing and export pipeline. Just wired up archive indexing, fixed composer ordering, and documented the multi-machine workflow. Refining exporter logic for the 2026-10 census.
 >
-> *Updated: 2026-10-25*
+> *Updated: 2026-10-26*
 <!-- NOW:END -->
 
 ---
