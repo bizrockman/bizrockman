@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping the indexing layer for ocf-py and refining exporters. The archive is now the source of truth. Wiring up multi-machine workflows in the docs.
+> 📚 **Now:** Quiet stretch after wrapping the archive indexing work in ocf-py. Docs refresh and design notes stacking up — processing what's next on the format side.
 >
-> *Updated: 2026-10-27*
+> *Updated: 2026-10-28*
 <!-- NOW:END -->
 
 ---
