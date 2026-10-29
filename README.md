@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet stretch after wrapping the archive indexing work in ocf-py. Docs refresh and design notes stacking up — processing what's next on the format side.
+> 📚 **Now:** Recent work on ocf-py is settling. Indexing the archive as source of truth, refining exporters. Quiet stretch now — likely sketching next moves.
 >
-> *Updated: 2026-10-28*
+> *Updated: 2026-10-29*
 <!-- NOW:END -->
 
 ---
