@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Recent work on ocf-py is settling. Indexing the archive as source of truth, refining exporters. Quiet stretch now — likely sketching next moves.
+> 📚 **Now:** Stepped back from active commits — mapping out the OCF archive as source of truth and documenting the multi-machine workflow. Reviewing the exporter patterns.
 >
-> *Updated: 2026-10-29*
+> *Updated: 2026-10-30*
 <!-- NOW:END -->
 
 ---
