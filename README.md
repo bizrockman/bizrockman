@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Last push was six days back — Danny wrapped the OCF archive indexing work and refreshed exporter docs. Likely sketching next moves or reviewing the OCF-py foundation.
+> 📚 **Now:** Stepped back from ocf-py after shipping the archive indexing layer and exporters refresh. Digesting what's next for the format — docs and design still settling.
 >
-> *Updated: 2026-10-31*
+> *Updated: 2026-11-01*
 <!-- NOW:END -->
 
 ---
