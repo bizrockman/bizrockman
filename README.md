@@ -7,7 +7,7 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping ChatGPT adapter for ocf-py and indexing the OCF archive as source of truth. Wiring up multi-machine export workflows and refreshing the exporter census.
+> 🛠️ **Now:** Wiring up ChatGPT conversation export adapter into ocf-py and indexing the OCF archive as source of truth. Documentation refresh underway.
 >
 > *Updated: 2026-11-03*
 <!-- NOW:END -->
