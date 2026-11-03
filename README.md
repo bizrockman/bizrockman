@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Stepped back from ocf-py after shipping the archive indexing layer and exporters refresh. Digesting what's next for the format — docs and design still settling.
+> 🛠️ **Now:** Shipping ChatGPT adapter for ocf-py and indexing the OCF archive as source of truth. Wiring up multi-machine export workflows and refreshing the exporter census.
 >
-> *Updated: 2026-11-01*
+> *Updated: 2026-11-03*
 <!-- NOW:END -->
 
 ---
