@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Wiring up ChatGPT conversation export adapter into ocf-py and indexing the OCF archive as source of truth. Documentation refresh underway.
+> 🛠️ **Now:** Wiring up ChatGPT adapter for ocf-py and patching llm-websearch health checks after Cloudflare blocking. Docs on the archive workflow going live.
 >
-> *Updated: 2026-11-03*
+> *Updated: 2026-11-04*
 <!-- NOW:END -->
 
 ---
