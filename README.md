@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Wiring up ChatGPT adapter for ocf-py and patching llm-websearch health checks after Cloudflare blocking. Docs on the archive workflow going live.
+> 🛠️ **Now:** Adding ChatGPT export adapter to ocf-py and documenting the archive workflow. Patching llm-websearch health checks — Cloudflare blocked Yep, now paid-only.
 >
-> *Updated: 2026-11-04*
+> *Updated: 2026-11-05*
 <!-- NOW:END -->
 
 ---
