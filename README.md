@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Adding ChatGPT export adapter to ocf-py and documenting the archive workflow. Patching llm-websearch health checks — Cloudflare blocked Yep, now paid-only.
+> 🛠️ **Now:** Split session indexing into chunks and added Claude.ai export adapter to open-conversation-format/ocf-py. Disabled Yep in llm-websearch due to Cloudflare blocks.
 >
-> *Updated: 2026-11-05*
+> *Updated: 2026-11-06*
 <!-- NOW:END -->
 
 ---
