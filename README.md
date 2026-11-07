@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Split session indexing into chunks and added Claude.ai export adapter to open-conversation-format/ocf-py. Disabled Yep in llm-websearch due to Cloudflare blocks.
+> 🛠️ **Now:** Splitting sessions into chunks and wiring up the Claude.ai adapter in ocf-py. Also patched llm-websearch to drop the Yep integration after hitting Cloudflare blocks.
 >
-> *Updated: 2026-11-06*
+> *Updated: 2026-11-07*
 <!-- NOW:END -->
 
 ---
