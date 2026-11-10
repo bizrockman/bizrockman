@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Splitting session data into chunks in ocf-py and adding a Claude.ai adapter. Fixed archive indexing to use filenames as document IDs.
+> 🧠 **Now:** Latest work on ocf-py wraps up session chunking and Claude.ai adapter logic. Quiet on commits — likely sketching next phases or digging into format edge cases.
 >
-> *Updated: 2026-11-08*
+> *Updated: 2026-11-10*
 <!-- NOW:END -->
 
 ---
