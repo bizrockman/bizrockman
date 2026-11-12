@@ -7,7 +7,7 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet week on commits — ocf-py got chunking and Claude adapter work done. Sorting through what's next on the format side.
+> 🧠 **Now:** Quiet week on commits — deep in ocf-py work on indexing and adapters for Claude/ChatGPT exports. Sketching next steps for the conversation format parser.
 >
 > *Updated: 2026-11-12*
 <!-- NOW:END -->
