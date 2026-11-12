@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Quiet on commits — heads down on ocf-py architecture. Built adapters for Claude and ChatGPT exports, chunking session logic. Sketching next phase.
+> 📚 **Now:** Quiet week on commits — ocf-py got chunking and Claude adapter work done. Sorting through what's next on the format side.
 >
-> *Updated: 2026-11-10*
+> *Updated: 2026-11-12*
 <!-- NOW:END -->
 
 ---
