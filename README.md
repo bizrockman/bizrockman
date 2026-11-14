@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Week off from active commits. Building adapters for claude-ai and ChatGPT exports in ocf-py, working through indexing and chunking logic. Reading around data normalization patterns.
+> 📚 **Now:** Wrapped up session chunking and Claude.ai adapter for ocf-py. Quiet week — sketching next moves on the conversation format standardization.
 >
-> *Updated: 2026-11-13*
+> *Updated: 2026-11-14*
 <!-- NOW:END -->
 
 ---
