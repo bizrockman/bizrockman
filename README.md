@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Wrapped up session chunking and Claude.ai adapter for ocf-py. Quiet week — sketching next moves on the conversation format standardization.
+> 🛠️ **Now:** Shipping format census tooling and session chunking in ocf-py. Added Claude.ai adapter to the export pipeline. Wiring up document indexing with archive filenames as IDs.
 >
-> *Updated: 2026-11-14*
+> *Updated: 2026-11-15*
 <!-- NOW:END -->
 
 ---
