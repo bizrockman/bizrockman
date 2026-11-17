@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping format census tooling and session chunking in ocf-py. Added Claude.ai adapter to the export pipeline. Wiring up document indexing with archive filenames as IDs.
+> ⚡ **Now:** Shipping continuous sync with a tray app in ocf-py and laying out the landing page. Test suite tightening to keep spec and implementation in sync.
 >
-> *Updated: 2026-11-15*
+> *Updated: 2026-11-17*
 <!-- NOW:END -->
 
 ---
