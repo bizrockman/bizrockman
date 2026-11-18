@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> ⚡ **Now:** Shipping continuous sync with a tray app in ocf-py and laying out the landing page. Test suite tightening to keep spec and implementation in sync.
+> 🛠️ **Now:** Shipping the Open Conversation Format parser and landing site. Just pushed Codex session deduping and www canonical redirect. Wiring pieces together.
 >
-> *Updated: 2026-11-17*
+> *Updated: 2026-11-18*
 <!-- NOW:END -->
 
 ---
