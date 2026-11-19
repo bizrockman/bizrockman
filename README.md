@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping the Open Conversation Format parser and landing site. Just pushed Codex session deduping and www canonical redirect. Wiring pieces together.
+> 🛠️ **Now:** Shipping the ocf-py Codex Desktop integration and wiring up the website with canonical hosting. Landing page live and schema tests aligned to spec repo.
 >
-> *Updated: 2026-11-18*
+> *Updated: 2026-11-19*
 <!-- NOW:END -->
 
 ---
