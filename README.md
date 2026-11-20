@@ -7,7 +7,7 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🛠️ **Now:** Shipping the Open Conversation Format parser (ocf-py) with schema tests and Codex Desktop integration. Website live with landing page and canonical routing in place.
+> 🧠 **Now:** Last push was three days back on ocf-py and the website. Likely sketching the next phase of the OpenConversationFormat ecosystem.
 >
 > *Updated: 2026-11-20*
 <!-- NOW:END -->
