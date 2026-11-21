@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Last push was three days back on ocf-py and the website. Likely sketching the next phase of the OpenConversationFormat ecosystem.
+> 📚 **Now:** Last push was a few days back on ocf-py and the website repo. Likely sketching next moves on the OpenConversationFormat ecosystem and how the pieces fit.
 >
-> *Updated: 2026-11-20*
+> *Updated: 2026-11-21*
 <!-- NOW:END -->
 
 ---
