@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Last push was a few days back on ocf-py and the website repo. Likely sketching next moves on the OpenConversationFormat ecosystem and how the pieces fit.
+> 🧠 **Now:** Quiet stretch on commits — been working through ocf-py schema logic and the website foundation. Thinking through how Codex Desktop's session handling should fit into the broader format spec.
 >
-> *Updated: 2026-11-21*
+> *Updated: 2026-11-22*
 <!-- NOW:END -->
 
 ---
