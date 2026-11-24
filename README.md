@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet stretch on commits — been working through ocf-py schema logic and the website foundation. Thinking through how Codex Desktop's session handling should fit into the broader format spec.
+> 🧠 **Now:** Quiet on commits — working through ocf-py schema logic and website structure for open-conversation-format. Sketching how Codex Desktop fits into the broader format.
 >
-> *Updated: 2026-11-22*
+> *Updated: 2026-11-24*
 <!-- NOW:END -->
 
 ---
