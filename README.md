@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 🧠 **Now:** Quiet on commits — working through ocf-py schema logic and website structure for open-conversation-format. Sketching how Codex Desktop fits into the broader format.
+> 📚 **Now:** Last commits were landing page and schema work on ocf-py and website. Quiet week — likely sketching out next phases for the open conversation format tooling.
 >
-> *Updated: 2026-11-24*
+> *Updated: 2026-11-25*
 <!-- NOW:END -->
 
 ---
