@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Last commits were landing page and schema work on ocf-py and website. Quiet week — likely sketching out next phases for the open conversation format tooling.
+> 🧠 **Now:** Quiet stretch on commits — heads-down on ocf-py schema work and the OCF website foundation. Notes accumulating on session handling and spec alignment.
 >
-> *Updated: 2026-11-25*
+> *Updated: 2026-11-26*
 <!-- NOW:END -->
 
 ---
