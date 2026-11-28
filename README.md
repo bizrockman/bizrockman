@@ -7,9 +7,9 @@
 > — *"Don't do anything a computer can do better."*
 
 <!-- NOW:START -->
-> 📚 **Now:** Stepped back from daily commits. Reviewing ocf-py schema work and website structure for open-conversation-format. Letting the design settle before the next push.
+> 📚 **Now:** Last commits were wiring up ocf-py schema tests and shipping the OCF website. Quiet stretch now — processing what comes next with the conversation format.
 >
-> *Updated: 2026-11-27*
+> *Updated: 2026-11-28*
 <!-- NOW:END -->
 
 ---
